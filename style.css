@@ -1,0 +1,31 @@
+@import url("https://use.typekit.net/bed6coi.css");
+
+:root {
+  --color1: #782099;
+  --color2: #b91585;
+  --color3: #1a32b8;
+  --color4: #e3acf4;
+  --color5: #231127;
+}
+
+* {
+  color: var(--color5);
+  font-family: adobe-caslon-pro, serif;
+}
+
+.lille-p {
+  font-size: 0.7rem;
+  margin-top: -8px;
+}
+
+h1,
+h2 {
+  font-family: adage-script-jf, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+H4 {
+  color: #782099;
+}
